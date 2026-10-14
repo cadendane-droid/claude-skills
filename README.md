@@ -93,29 +93,6 @@ Once linked, run `/<skill-name>` in Claude Code, or just describe a task that ma
 | [spec-driven-development](spec-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development) by Addy Osmani | 2026-10-14 |
 | [test-driven-development](test-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/test-driven-development) by Addy Osmani | 2026-10-14 |
 | [using-agent-skills](using-agent-skills/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/using-agent-skills) by Addy Osmani | 2026-10-14 |
-| [eas-app-stores](eas-app-stores/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-app-stores) by Expo | 2026-10-14 |
-| [eas-hosting](eas-hosting/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-hosting) by Expo | 2026-10-14 |
-| [eas-observe](eas-observe/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-observe) by Expo | 2026-10-14 |
-| [eas-simulator](eas-simulator/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-simulator) by Expo | 2026-10-14 |
-| [eas-update](eas-update/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-update) by Expo | 2026-10-14 |
-| [eas-update-insights](eas-update-insights/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-update-insights) by Expo | 2026-10-14 |
-| [eas-workflows](eas-workflows/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/eas-workflows) by Expo | 2026-10-14 |
-| [expo-animation](expo-animation/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-animation) by Expo | 2026-10-14 |
-| [expo-app-clip](expo-app-clip/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-app-clip) by Expo | 2026-10-14 |
-| [expo-brownfield](expo-brownfield/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-brownfield) by Expo | 2026-10-14 |
-| [expo-data-fetching](expo-data-fetching/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-data-fetching) by Expo | 2026-10-14 |
-| [expo-design-system](expo-design-system/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-design-system) by Expo | 2026-10-14 |
-| [expo-dev-client](expo-dev-client/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-dev-client) by Expo | 2026-10-14 |
-| [expo-dom](expo-dom/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-dom) by Expo | 2026-10-14 |
-| [expo-examples](expo-examples/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-examples) by Expo | 2026-10-14 |
-| [expo-module](expo-module/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-module) by Expo | 2026-10-14 |
-| [expo-native-ui](expo-native-ui/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-native-ui) by Expo | 2026-10-14 |
-| [expo-overview](expo-overview/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-overview) by Expo | 2026-10-14 |
-| [expo-project-structure](expo-project-structure/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-project-structure) by Expo | 2026-10-14 |
-| [expo-router](expo-router/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-router) by Expo | 2026-10-14 |
-| [expo-ui](expo-ui/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui) by Expo | 2026-10-14 |
-| [expo-upgrade](expo-upgrade/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-upgrade) by Expo | 2026-10-14 |
-| [expo-web-to-native](expo-web-to-native/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-web-to-native) by Expo | 2026-10-14 |
 | [playwright-cli](playwright-cli/) | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) by Microsoft | 2026-10-14 |
 | [claude-security-review](claude-security-review/) | [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) by Anthropic | 2026-10-14 |
 
