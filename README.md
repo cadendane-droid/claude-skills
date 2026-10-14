@@ -116,6 +116,7 @@ Once linked, run `/<skill-name>` in Claude Code, or just describe a task that ma
 | [expo-ui](expo-ui/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-ui) by Expo | 2026-10-14 |
 | [expo-upgrade](expo-upgrade/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-upgrade) by Expo | 2026-10-14 |
 | [expo-web-to-native](expo-web-to-native/) | [expo/skills](https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-web-to-native) by Expo | 2026-10-14 |
+| [playwright-cli](playwright-cli/) | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) by Microsoft | 2026-10-14 |
 
 ## Writing your own
 
