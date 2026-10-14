@@ -67,6 +67,7 @@ Once linked, run `/<skill-name>` in Claude Code, or just describe a task that ma
 | Skill | Source | Date copied |
 |-------|--------|-------------|
 | [scroll-craft](scroll-craft/) | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) by Nate Herk | 2026-10-14 |
+| [humanizer](humanizer/) | [blader/humanizer](https://github.com/blader/humanizer) by Siqi Chen | 2026-10-14 |
 
 ## Writing your own
 
