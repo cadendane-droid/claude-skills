@@ -68,6 +68,31 @@ Once linked, run `/<skill-name>` in Claude Code, or just describe a task that ma
 |-------|--------|-------------|
 | [scroll-craft](scroll-craft/) | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) by Nate Herk | 2026-10-14 |
 | [humanizer](humanizer/) | [blader/humanizer](https://github.com/blader/humanizer) by Siqi Chen | 2026-10-14 |
+| [api-and-interface-design](api-and-interface-design/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/api-and-interface-design) by Addy Osmani | 2026-10-14 |
+| [browser-testing-with-devtools](browser-testing-with-devtools/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/browser-testing-with-devtools) by Addy Osmani | 2026-10-14 |
+| [ci-cd-and-automation](ci-cd-and-automation/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/ci-cd-and-automation) by Addy Osmani | 2026-10-14 |
+| [code-review-and-quality](code-review-and-quality/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/code-review-and-quality) by Addy Osmani | 2026-10-14 |
+| [code-simplification](code-simplification/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/code-simplification) by Addy Osmani | 2026-10-14 |
+| [constraint-driven-development](constraint-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/constraint-driven-development) by Addy Osmani | 2026-10-14 |
+| [context-engineering](context-engineering/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/context-engineering) by Addy Osmani | 2026-10-14 |
+| [debugging-and-error-recovery](debugging-and-error-recovery/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/debugging-and-error-recovery) by Addy Osmani | 2026-10-14 |
+| [deprecation-and-migration](deprecation-and-migration/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/deprecation-and-migration) by Addy Osmani | 2026-10-14 |
+| [documentation-and-adrs](documentation-and-adrs/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs) by Addy Osmani | 2026-10-14 |
+| [doubt-driven-development](doubt-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/doubt-driven-development) by Addy Osmani | 2026-10-14 |
+| [frontend-ui-engineering](frontend-ui-engineering/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/frontend-ui-engineering) by Addy Osmani | 2026-10-14 |
+| [git-workflow-and-versioning](git-workflow-and-versioning/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/git-workflow-and-versioning) by Addy Osmani | 2026-10-14 |
+| [idea-refine](idea-refine/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/idea-refine) by Addy Osmani | 2026-10-14 |
+| [incremental-implementation](incremental-implementation/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/incremental-implementation) by Addy Osmani | 2026-10-14 |
+| [interview-me](interview-me/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me) by Addy Osmani | 2026-10-14 |
+| [observability-and-instrumentation](observability-and-instrumentation/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/observability-and-instrumentation) by Addy Osmani | 2026-10-14 |
+| [performance-optimization](performance-optimization/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/performance-optimization) by Addy Osmani | 2026-10-14 |
+| [planning-and-task-breakdown](planning-and-task-breakdown/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/planning-and-task-breakdown) by Addy Osmani | 2026-10-14 |
+| [security-and-hardening](security-and-hardening/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/security-and-hardening) by Addy Osmani | 2026-10-14 |
+| [shipping-and-launch](shipping-and-launch/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/shipping-and-launch) by Addy Osmani | 2026-10-14 |
+| [source-driven-development](source-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/source-driven-development) by Addy Osmani | 2026-10-14 |
+| [spec-driven-development](spec-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development) by Addy Osmani | 2026-10-14 |
+| [test-driven-development](test-driven-development/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/test-driven-development) by Addy Osmani | 2026-10-14 |
+| [using-agent-skills](using-agent-skills/) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills/tree/main/skills/using-agent-skills) by Addy Osmani | 2026-10-14 |
 
 ## Writing your own
 
